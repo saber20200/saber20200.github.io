@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>test</title>
+    <url>/2021/12/02/a/</url>
+    <content><![CDATA[<p>Test</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2021/12/02/test/</url>
+    <content><![CDATA[]]></content>
+  </entry>
 </search>
